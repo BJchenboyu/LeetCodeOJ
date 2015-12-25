@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Solution", "Solution\Solution.vcxproj", "{07B28A4F-8426-4734-ABB5-33D50B0A6B5C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "asm", "asm\asm.vcxproj", "{DA1FA3BA-592C-406E-AC7C-E9CD065864D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07B28A4F-8426-4734-ABB5-33D50B0A6B5C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{07B28A4F-8426-4734-ABB5-33D50B0A6B5C}.Debug|Win32.Build.0 = Debug|Win32
+		{07B28A4F-8426-4734-ABB5-33D50B0A6B5C}.Release|Win32.ActiveCfg = Release|Win32
+		{07B28A4F-8426-4734-ABB5-33D50B0A6B5C}.Release|Win32.Build.0 = Release|Win32
+		{DA1FA3BA-592C-406E-AC7C-E9CD065864D5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DA1FA3BA-592C-406E-AC7C-E9CD065864D5}.Debug|Win32.Build.0 = Debug|Win32
+		{DA1FA3BA-592C-406E-AC7C-E9CD065864D5}.Release|Win32.ActiveCfg = Release|Win32
+		{DA1FA3BA-592C-406E-AC7C-E9CD065864D5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
